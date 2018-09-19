@@ -3,6 +3,8 @@
     Where I have commented "keep," DO NOT touch that line!
     */
 
+/* --- ADD YOUR STYLES BELOW --- */
+
 body, aside {
     background: #332424; /* must change */
     color: #fff; /* may be #000 or #fff */
@@ -25,6 +27,8 @@ figure {
   background: #191919;
 }
 
+/* --- add your PSEUDO CLASSES below this line --- */
+
 a:link {
   color: #6CD149;
 }
@@ -44,6 +48,23 @@ a:hover {
 a:active {
   color: #AFA1E3;
 }
-/* --- ADD YOUR STYLES BELOW --- */
 
-/* --- add your PSEUDO CLASSES below this line --- */
+footer a:link {
+  color: #6CD149;
+}
+
+footer a:visited {
+  color: #FFC9BE;
+}
+
+footer a:focus {
+  color: #CCCA8B;
+}
+
+footer a:hover {
+  color: #CCCA8B;
+}
+
+footer a:active {
+  color: #AFA1E3;
+}
