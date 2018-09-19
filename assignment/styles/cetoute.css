@@ -3,21 +3,21 @@
     Where I have commented "keep," DO NOT touch that line!
     */
 
+    body, aside {
+        background: #332424; /* must change */
+        color: #fff; /* may be #000 or #fff */
+        font-family: Calibri, Arial, sans-serif; /* keep */
+    }
+
+    article {
+        background: #664747;
+        width: 800px; /* keep */
+        padding: 20px; /* keep */
+        margin: auto; /* keep */
+        border: 1px solid; /* can delete or change */
+    }
+
 /* --- ADD YOUR STYLES BELOW --- */
-
-body, aside {
-    background: #332424; /* must change */
-    color: #fff; /* may be #000 or #fff */
-    font-family: Calibri, Arial, sans-serif; /* keep */
-}
-
-article {
-    background: #664747;
-    width: 800px; /* keep */
-    padding: 20px; /* keep */
-    margin: auto; /* keep */
-    border: 1px solid; /* can delete or change */
-}
 
 header, footer {
   background: #7F5959;
